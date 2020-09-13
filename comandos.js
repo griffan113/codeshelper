@@ -1,4 +1,4 @@
-Alguns comandos do BOT:
+/* Comandos do BOT:
 
 ⋙ Entreterimento: ⋘
 
@@ -42,3 +42,4 @@ Em breve mais comandos...
 ➜ unmute;
 ➜ ban;
 ➜ warn;
+*/
