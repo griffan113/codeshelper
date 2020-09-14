@@ -3,7 +3,7 @@ BOT do Discord feito em Node.js
 
 Alguns comandos do BOT:
 
-⋙ Entre no servidor do Discord para saber mais, e testa o BOT Code's Helper!
+⋙ Entre no servidor do Discord para saber mais, e testar o BOT Code's Helper!
 
 
 
