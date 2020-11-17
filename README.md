@@ -1,11 +1,8 @@
 # codeshelper
 BOT do Discord feito em Node.js
-
-Alguns comandos do BOT:
+Versão atual: 4.0
 
 ⋙ Entre no servidor do Discord para saber mais, e testar o BOT Code's Helper!
-
-
 
 
 
