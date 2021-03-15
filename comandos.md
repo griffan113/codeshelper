@@ -1,6 +1,6 @@
-/* Comandos do BOT:
+ ## Comandos do BOT:
 
-⋙ Entreterimento: ⋘
+## ⋙ Entreterimento: ⋘
 
 ➜ coin - Joga cara ou coroa; 
 ➜ roastme - Dá uma lição de moral (te xinga);
@@ -11,7 +11,7 @@
 ➜ rps - Joga Pedra, Papel, Tesoura;
 ➜ nada - Faz simplesmente nada!
 
-⋙ Utilidades: ⋘
+## ⋙ Utilidades: ⋘
 
 ➜ sv - Link do servidor;
 ➜ userinfo - Mostra algumas informações de determinado usuário;
@@ -22,7 +22,7 @@
 ➜ cor remova - Remove a cor;
 ➜ feedback - Envia uma sugestão á algum canal de feedback existente.
 
-⋙ Comandos avançados do Bot: ⋘
+## ## ⋙ Comandos avançados do Bot: ⋘
 
 ➜ recruitment - Dá início ao processo de recrutamento para Staff;
 ➜ event - Entra para algum evento existente no servidor;
@@ -30,7 +30,7 @@
 ➜ py - Mostra alguns comandos na linguagem Python.
 Em breve mais comandos...
 
-⋙ Comandos avançados do Bot: ⋘
+## ⋙ Comandos avançados do Bot: ⋘
 
 ➜ work - Comando usado a cada 10 minutos para ganhar moedas;
 ➜ daily - Comando usando a cada 1 dia para ganhar moedas;
@@ -40,7 +40,7 @@ Em breve mais comandos...
 ➜ pay  - Pague alguém com suas moedas.
 
 
-⋙ Comandos da Staff: ⋘
+## ⋙ Comandos da Staff: ⋘
 
 ➜ aviso - Envia uma mensagem de aviso á algum canal definido;
 ➜ clear - Limpa uma quantidade de mensagens;
@@ -55,4 +55,3 @@ Em breve mais comandos...
 ➜ unmute;
 ➜ ban;
 ➜ warn.
-*/
