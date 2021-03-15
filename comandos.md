@@ -2,25 +2,24 @@
 
 ## ⋙ Entreterimento: ⋘
 
-➜ coin - Joga cara ou coroa; 
-➜ roastme - Dá uma lição de moral (te xinga);
-➜ meavise - Você será avisado com esse comando;
-➜ rlshop - Mostra a rotação de itens da loja do Rocket League;
-➜ avatar - Mostra o seu avatar ou mencione alguem para ver o avatar da pessoa;
-➜ meme - Manda um meme aleatório do Reddit;
-➜ rps - Joga Pedra, Papel, Tesoura;
-➜ nada - Faz simplesmente nada!
+* ➜ coin - Joga cara ou coroa;
+* ➜ meavise - Você será avisado com esse comando;
+* ➜ rlshop - Mostra a rotação de itens da loja do Rocket League;
+* ➜ avatar - Mostra o seu avatar ou mencione alguem para ver o avatar da pessoa;
+* ➜ meme - Manda um meme aleatório do Reddit;
+* ➜ rps - Joga Pedra, Papel, Tesoura;
+* ➜ nada - Faz simplesmente nada!
 
 ## ⋙ Utilidades: ⋘
 
-➜ sv - Link do servidor;
-➜ userinfo - Mostra algumas informações de determinado usuário;
-➜ serverinfo - Mostra as informações do servidor;
-➜ ping - Mostra o ping do servidor;
-➜ cargo - Escolha um cargo especial;
-➜ cor - Escolha uma cor específica;
-➜ cor remova - Remove a cor;
-➜ feedback - Envia uma sugestão á algum canal de feedback existente.
+* ➜ sv - Link do servidor;
+* ➜ userinfo - Mostra algumas informações de determinado usuário;
+* ➜ serverinfo - Mostra as informações do servidor;
+* ➜ ping - Mostra o ping do servidor;
+* ➜ cargo - Escolha um cargo especial;
+* ➜ cor - Escolha uma cor específica;
+* ➜ cor remova - Remove a cor;
+* ➜ feedback - Envia uma sugestão á algum canal de feedback existente.
 
 ## ## ⋙ Comandos avançados do Bot: ⋘
 
@@ -46,6 +45,7 @@ Em breve mais comandos...
 ➜ clear - Limpa uma quantidade de mensagens;
 ➜ add - Adiciona moedas a algum usuário;
 ➜ remove - Remove moedas de algum usuário;
+➜ eval - executa um código JavaScript;
 
 ➘ Comandos de Moderação:
 - Todos funcionando com ID's de usuário
